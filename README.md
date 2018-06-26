@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Asked the user if they wanted an item to be deleted
+* [X] Made the UI nicer to look at
 
 ## Video Walkthrough
 
